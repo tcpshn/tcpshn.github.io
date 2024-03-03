@@ -4,9 +4,11 @@
   <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="keywords" content="" />
   <meta name="author" content="Cong" />
-  <meta name="description" content="" />
+  <!-- Open Graph Description 简短摘要-->
+  
+  <!-- 用于搜索引擎的文章摘要 -->
+  
   
   
   <title>
@@ -157,7 +159,7 @@
       <div class="post-attach">
         <span class="post-pubtime">
           <i class="iconfont icon-updatetime mr-10" title="更新时间"></i>
-          2024-03-03 16:33:04
+          2024-03-03 16:38:10
         </span>
         
               <span class="post-tags">
@@ -193,7 +195,7 @@
           <div class="post-attach">
             <span class="post-pubtime">
               <i class="iconfont icon-updatetime mr-10" title="更新时间"></i>
-              2024-03-03 16:33:04
+              2024-03-03 16:38:10
             </span>
             
                   <span class="post-tags">
@@ -219,38 +221,34 @@
     
       <div class="comments-container">
         
-  <div id="waline-comments"></div>
+
+
+
+
+  
+    <script async type="text/javascript" src="/plugins/valine.min.js" onload="loadValineSuc(this)"></script>
+  
+
+  <div id="vcomments"></div>
 
   <script>
-    function loadWalineSuc(func) {
-      func({
-        el: '#waline-comments',
-        path: location.pathname,
-        serverURL: 'https://waline-1-w2210608.deta.app/',
-        emoji: false,
-        dark: 'auto',
-        requiredMeta: ['nick', 'mail'],
-        wordLimit: 150,
-        imageUploader: false,
-        search: false,
-        reaction: false,
-        pageSize: 30
+    function loadValineSuc() {
+      new Valine({
+        el: '#vcomments',
+        appId: 'pAIPpARaVSdF0WkJP92BBVab-MdYXbMMI',
+        appKey: 'bTKUa9WYfG01WyJd2ZYTuOTq',
+        placeholder: 'Welcome!',
+        avatar: 'retro',
+        lang: 'zh-CN'
       })
     }
   </script>
 
-  
-    <link rel="stylesheet" href="/plugins/waline.css">
-    <script type="module">
-      import { init } from '/plugins/waline.mjs'
-      loadWalineSuc(init)
-    </script>
-  
-
-
-
-
-
+    <style>
+      .comments-container .v .vempty {
+        display: none!important;
+      }
+    </style>
 
 
 
@@ -266,17 +264,21 @@
     <ul>
       
         <li>
-          <a title="rss" href="/atom.xml">
-            <i class="iconfont icon-rss"></i>
-          </a>
+          
+              <a title="rss" href="/atom.xml">
+                <i class="iconfont icon-rss"></i>
+              </a>
+              
         </li>
-      
+        
         <li>
-          <a title="github" href="">
-            <i class="iconfont icon-github"></i>
-          </a>
+          
+              <a title="github" href="">
+                <i class="iconfont icon-github"></i>
+              </a>
+              
         </li>
-      
+        
     </ul>
   </div>
   
