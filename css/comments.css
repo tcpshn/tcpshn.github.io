@@ -48,7 +48,7 @@
 /* 根据用户设置 ↓ */
 darkmode-selector {
   /* 常规颜色 */
-  --waline-white: #000;
+  --waline-white: #fff;
   --waline-light-grey: #666;
   --waline-dark-grey: #999;
 
