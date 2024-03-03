@@ -4,6 +4,38 @@
   
     
     <entry>
+      <title>苹果因 iCloud 5GB 限制引发集体诉讼</title>
+      <link href="/2024/03/03/%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%8F%91%E9%9B%86%E4%BD%93%E8%AF%89%E8%AE%BC/"/>
+      <url>/2024/03/03/%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%8F%91%E9%9B%86%E4%BD%93%E8%AF%89%E8%AE%BC/</url>
+      
+        <content type="html"><![CDATA[<p>根据《彭博社》报导，一项新提出的集体诉讼指控苹果公司大幅调高 iCloud 的价格，使这项服务几乎产生纯利润。原告指控苹果公司“操纵竞争场域”，只允许 iCloud 管理设备备份和其他存储需求。</p><p>诉讼指出，苹果设备使用者获得 5GB 的免费 iCloud 存储空间，但根据 iCloud 的收入显示，大多数用户认为这不足以满足他们的存储需求，因此购买了额外的 iCloud 存储计划。自 Steve Jobs 在 2011 年 WWDC 上推出以来，iCloud 的免费层级一直限制在 5GB 的存储空间。</p><p>诉讼强调，iPhone 用户在进行完整装置备份时只有一个选择，那就是苹果自己的 iCloud 服务。苹果公司要求其移动装置用户使用 iCloud 备份某些档案类型，主要是装置设定以及应用程序和应用数据（“限制档案”）。对于其他档案类型，例如照片和影片，苹果移动装置用户可以从市场上的其他云存储提供者选择，包括 Google Drive、Sync.com、pCloud 等。</p><p>原告表示，苹果这样做是为了防止竞争对手的云平台提供可以有效竞争 iCloud 的全服务云解决方案。因此，苹果可以选择将免费 iCloud 存储限制在 5GB，知道大多数人需要订阅并支付更多存储空间才能备份他们的装置。</p><p>诉讼指出，苹果强制使用 iCloud 来存储“限制档案”没有技术或安全上的正当理由。苹果只是为了限制竞争并优惠其 iCloud 产品，才划分这种区别。这起诉讼由 Hagens Berman 律师事务所代表首席原告，该事务所之前也代表多起针对苹果的集体诉讼，其中最著名的是针对苹果的 5.6 亿美元 Apple Books 价格固定诉讼。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 苹果 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2024/03/03/hello-world/"/>
+      <url>/2024/03/03/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>AI photography</title>
       <link href="/2023/04/16/AI-photography/"/>
       <url>/2023/04/16/AI-photography/</url>
@@ -52,19 +84,6 @@
             <tag> 趣站 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2023/04/08/hello-world/"/>
-      <url>/2023/04/08/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     
